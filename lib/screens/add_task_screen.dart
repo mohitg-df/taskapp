@@ -87,14 +87,6 @@ class _AddTaskScreenState extends StateMVC<AddTaskScreen> {
         color: themeProvider.isDarkMode ? priText : priBg,
         letterspacing: 1.2,
       ),
-      actions: [
-        IconButton(
-          icon:
-              Icon(themeProvider.isDarkMode ? Icons.sunny : Icons.nights_stay),
-          onPressed: () => themeProvider.toggleTheme(),
-          color: themeProvider.isDarkMode ? priText : priBg,
-        ),
-      ],
     );
   }
 
