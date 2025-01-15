@@ -44,9 +44,11 @@ class _AddTaskScreenState extends StateMVC<AddTaskScreen> {
       );
       setState(() {
         _nameController = TextEditingController(text: widget.task?.name ?? '');
-        _selectedDate = widget.task?.dueDate;
-        _startDate.text = DateFormat('yyyy-MM-dd').format(_selectedDate!);
         _selectedPriority = priorityList[findIndex];
+        if (widget.task?.dueDate != null) {
+          _selectedDate = widget.task?.dueDate;
+          _startDate.text = DateFormat('yyyy-MM-dd').format(_selectedDate!);
+        }
       });
     }
     super.initState();
@@ -109,7 +111,6 @@ class _AddTaskScreenState extends StateMVC<AddTaskScreen> {
             SizedBox(height: 5),
             buildTaskNameField(),
             const SizedBox(height: 30),
-
             TextWidget(
               text: "Priority",
               fontWeight: normal,
@@ -119,7 +120,6 @@ class _AddTaskScreenState extends StateMVC<AddTaskScreen> {
             SizedBox(height: 5),
             buildPriorityList(),
             const SizedBox(height: 30),
-
             TextWidget(
               text: "Due Date",
               fontWeight: normal,
@@ -129,38 +129,8 @@ class _AddTaskScreenState extends StateMVC<AddTaskScreen> {
             SizedBox(height: 5),
             buildDueDate(),
             const SizedBox(height: 30),
-
-            // Row(
-            //   children: [
-            //     Expanded(
-            //       child: Text(
-            //         _selectedDate == null
-            //             ? 'No date selected'
-            //             : 'Due Date: ${_selectedDate!.toLocal().toString().split(' ')[0]}',
-            //       ),
-            //     ),
-            //     TextButton(
-            //       onPressed: () async {
-            //         final pickedDate = await showDatePicker(
-            //           context: context,
-            //           initialDate: _selectedDate ?? DateTime.now(),
-            //           firstDate: DateTime.now(),
-            //           lastDate: DateTime(2100),
-            //         );
-            //         if (pickedDate != null) {
-            //           setState(() => _selectedDate = pickedDate);
-            //         }
-            //       },
-            //       child: Text('Pick Date'),
-            //     ),
-            //   ],
-            // ),
             SizedBox(height: 30),
             buildSaveButton(),
-            // ElevatedButton(
-            //   onPressed: _saveTask,
-            //   child: Text(widget.task == null ? 'Add Task' : 'Save Changes'),
-            // ),
           ],
         ),
       ),
@@ -246,7 +216,11 @@ class _AddTaskScreenState extends StateMVC<AddTaskScreen> {
             return null;
           },
           decoration: InputDecoration(
-            prefixIcon: Icon(Icons.priority_high_rounded),
+            prefixIcon: Icon(_selectedPriority == "High"
+                ? Icons.priority_high_rounded
+                : _selectedPriority == "Medium"
+                    ? Icons.check_circle_outline
+                    : Icons.arrow_downward_rounded),
             filled: true,
             fillColor: themeProvider.isDarkMode ? priBg : secBg,
             border: OutlineInputBorder(
@@ -304,13 +278,6 @@ class _AddTaskScreenState extends StateMVC<AddTaskScreen> {
             fontWeight: normal,
             color: secText,
           ),
-          // validator: (value) {
-          //   // taskController.task.dueDate = _selectedDate;
-          //   if (taskController.validateDueDate(value) == 'pass') {
-          //     return null;
-          //   }
-          //   return taskController.validateDueDate(value);
-          // },
           onTap: () async {
             DateTime? pickDate = await showDatePicker(
               context: context,

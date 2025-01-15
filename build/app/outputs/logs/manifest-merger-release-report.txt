@@ -1,7 +1,7 @@
 -- Merging decision tree log ---
 application
-INJECTED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml:3:5-34:19
-INJECTED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml:3:5-34:19
+INJECTED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml:3:5-34:19
+INJECTED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml:3:5-34:19
 MERGED from [androidx.window:window:1.2.0] /Users/mohitg/.gradle/caches/transforms-3/8859fd2468ade3ef2655d1f63d6737f2/transformed/jetified-window-1.2.0/AndroidManifest.xml:22:5-29:19
 MERGED from [androidx.window:window:1.2.0] /Users/mohitg/.gradle/caches/transforms-3/8859fd2468ade3ef2655d1f63d6737f2/transformed/jetified-window-1.2.0/AndroidManifest.xml:22:5-29:19
 MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/mohitg/.gradle/caches/transforms-3/40a1bd5ff2ce65cd1fad055cc690d356/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
@@ -15,22 +15,22 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/mohitg/.gradle/cache
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mohitg/.gradle/caches/transforms-3/d21e37b6169caa7895fc002c1192b0f1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mohitg/.gradle/caches/transforms-3/d21e37b6169caa7895fc002c1192b0f1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 	android:extractNativeLibs
-		INJECTED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.13.1] /Users/mohitg/.gradle/caches/transforms-3/889ae3adf7a24645889ee22f4dad2cac/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
 	android:label
-		ADDED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml:4:9-33
+		ADDED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml:4:9-33
 	android:icon
-		ADDED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml:6:9-43
+		ADDED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml:6:9-43
 	android:name
-		INJECTED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml:5:9-42
+		INJECTED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml:5:9-42
 manifest
-ADDED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml:1:1-46:12
-INJECTED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml:1:1-46:12
-INJECTED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml:1:1-46:12
-INJECTED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml:1:1-46:12
-MERGED from [:shared_preferences_android] /Users/mohitg/StudioProjects/taskapp/build/shared_preferences_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+ADDED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml:1:1-46:12
+INJECTED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml:1:1-46:12
+INJECTED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml:1:1-46:12
+INJECTED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml:1:1-46:12
+MERGED from [:shared_preferences_android] /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/build/shared_preferences_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.datastore:datastore-core-android:1.1.1] /Users/mohitg/.gradle/caches/transforms-3/9441e8b274faebbfe21cf8c8f463be95/transformed/jetified-datastore-core-release/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.datastore:datastore-preferences-android:1.1.1] /Users/mohitg/.gradle/caches/transforms-3/0cf0dfa47f40d2ebd3407bd47f3dd25e/transformed/jetified-datastore-preferences-release/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.datastore:datastore-android:1.1.1] /Users/mohitg/.gradle/caches/transforms-3/e3611af684c8af9ba655b32249084f4e/transformed/jetified-datastore-release/AndroidManifest.xml:17:1-22:12
@@ -84,75 +84,75 @@ MERGED from [androidx.print:print:1.0.0] /Users/mohitg/.gradle/caches/transforms
 MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/mohitg/.gradle/caches/transforms-3/c4537ab9015740d05f09a422063523a5/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
 MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/mohitg/.gradle/caches/transforms-3/84b17be5f49a910e04e8c35fea028f28/transformed/jetified-relinker-1.4.5/AndroidManifest.xml:2:1-7:12
 	package
-		INJECTED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml:2:1-62
+ADDED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml:2:1-62
 	android:name
-		ADDED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml:2:18-60
+		ADDED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml:2:18-60
 queries
-ADDED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml:40:5-45:15
+ADDED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml:40:5-45:15
 intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
-ADDED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml:41:9-44:18
+ADDED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml:41:9-44:18
 action#android.intent.action.PROCESS_TEXT
-ADDED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml:42:13-72
+ADDED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml:42:13-72
 	android:name
-		ADDED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml:42:21-70
+		ADDED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml:42:21-70
 data
-ADDED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml:43:13-50
+ADDED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml:43:13-50
 	android:mimeType
-		ADDED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml:43:19-48
+		ADDED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml:43:19-48
 activity#com.mohitdev.taskapp.taskapp.MainActivity
-ADDED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml:7:9-28:20
+ADDED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml:7:9-28:20
 	android:launchMode
-		ADDED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml:10:13-43
+		ADDED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml:10:13-43
 	android:hardwareAccelerated
-		ADDED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml:14:13-47
+		ADDED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml:14:13-47
 	android:windowSoftInputMode
-		ADDED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml:15:13-55
+		ADDED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml:15:13-55
 	android:exported
-		ADDED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml:9:13-36
+		ADDED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml:9:13-36
 	android:configChanges
-		ADDED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml:13:13-163
+		ADDED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml:13:13-163
 	android:theme
-		ADDED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml:12:13-47
+		ADDED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml:12:13-47
 	android:taskAffinity
-		ADDED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml:11:13-36
+		ADDED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml:11:13-36
 	android:name
-		ADDED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml:8:13-41
+		ADDED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml:8:13-41
 meta-data#io.flutter.embedding.android.NormalTheme
-ADDED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml:20:13-23:17
+ADDED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml:20:13-23:17
 	android:resource
-		ADDED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml:22:15-52
+		ADDED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml:22:15-52
 	android:name
-		ADDED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml:21:15-70
+		ADDED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml:21:15-70
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml:24:13-27:29
+ADDED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml:24:13-27:29
 action#android.intent.action.MAIN
-ADDED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml:25:17-68
+ADDED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml:25:17-68
 	android:name
-		ADDED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml:25:25-66
+		ADDED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml:25:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml:26:17-76
+ADDED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml:26:17-76
 	android:name
-		ADDED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml:26:27-74
+		ADDED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml:26:27-74
 meta-data#flutterEmbedding
-ADDED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml:31:9-33:33
+ADDED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml:31:9-33:33
 	android:value
-		ADDED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml:33:13-30
+		ADDED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml:33:13-30
 	android:name
-		ADDED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml:32:13-44
+		ADDED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml:32:13-44
 uses-sdk
-INJECTED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml
-MERGED from [:shared_preferences_android] /Users/mohitg/StudioProjects/taskapp/build/shared_preferences_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:shared_preferences_android] /Users/mohitg/StudioProjects/taskapp/build/shared_preferences_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+INJECTED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml
+MERGED from [:shared_preferences_android] /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/build/shared_preferences_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/build/shared_preferences_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.datastore:datastore-core-android:1.1.1] /Users/mohitg/.gradle/caches/transforms-3/9441e8b274faebbfe21cf8c8f463be95/transformed/jetified-datastore-core-release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.datastore:datastore-core-android:1.1.1] /Users/mohitg/.gradle/caches/transforms-3/9441e8b274faebbfe21cf8c8f463be95/transformed/jetified-datastore-core-release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.datastore:datastore-preferences-android:1.1.1] /Users/mohitg/.gradle/caches/transforms-3/0cf0dfa47f40d2ebd3407bd47f3dd25e/transformed/jetified-datastore-preferences-release/AndroidManifest.xml:20:5-44
@@ -258,9 +258,9 @@ MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/mohitg/.g
 MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/mohitg/.gradle/caches/transforms-3/84b17be5f49a910e04e8c35fea028f28/transformed/jetified-relinker-1.4.5/AndroidManifest.xml:5:5-43
 MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/mohitg/.gradle/caches/transforms-3/84b17be5f49a910e04e8c35fea028f28/transformed/jetified-relinker-1.4.5/AndroidManifest.xml:5:5-43
 	android:targetSdkVersion
-		INJECTED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/mohitg/StudioProjects/taskapp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/AndroidManifest.xml
 uses-library#androidx.window.extensions
 ADDED from [androidx.window:window:1.2.0] /Users/mohitg/.gradle/caches/transforms-3/8859fd2468ade3ef2655d1f63d6737f2/transformed/jetified-window-1.2.0/AndroidManifest.xml:23:9-25:40
 	android:required

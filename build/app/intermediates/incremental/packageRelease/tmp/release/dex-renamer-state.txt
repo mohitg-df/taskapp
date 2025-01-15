@@ -1,4 +1,4 @@
-#Wed Jan 15 04:39:34 IST 2025
-base.0=/Users/mohitg/StudioProjects/taskapp/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+#Wed Jan 15 05:24:28 IST 2025
+base.0=/Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

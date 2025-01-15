@@ -1,13 +1,13 @@
 <libraries>
   <library
-      name="__local_aars__:/Users/mohitg/StudioProjects/taskapp/build/app/intermediates/flutter/release/libs.jar:unspecified@jar"
-      jars="/Users/mohitg/StudioProjects/taskapp/build/app/intermediates/flutter/release/libs.jar"
-      resolved="__local_aars__:/Users/mohitg/StudioProjects/taskapp/build/app/intermediates/flutter/release/libs.jar:unspecified"/>
+      name="__local_aars__:/Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/build/app/intermediates/flutter/release/libs.jar:unspecified@jar"
+      jars="/Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/build/app/intermediates/flutter/release/libs.jar"
+      resolved="__local_aars__:/Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/build/app/intermediates/flutter/release/libs.jar:unspecified"/>
   <library
-      name="/Users/mohitg/StudioProjects/taskapp/android@@:shared_preferences_android::release"
-      jars="/Users/mohitg/StudioProjects/taskapp/build/shared_preferences_android/.transforms/a1df316cdd2d87854a861b11a087f362/transformed/out/jars/classes.jar:/Users/mohitg/StudioProjects/taskapp/build/shared_preferences_android/.transforms/a1df316cdd2d87854a861b11a087f362/transformed/out/jars/libs/R.jar"
+      name="/Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android@@:shared_preferences_android::release"
+      jars="/Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/build/shared_preferences_android/.transforms/d5645e108ed5ade74315440c291150f5/transformed/out/jars/classes.jar:/Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/build/shared_preferences_android/.transforms/d5645e108ed5ade74315440c291150f5/transformed/out/jars/libs/R.jar"
       resolved="io.flutter.plugins.sharedpreferences:shared_preferences_android:unspecified"
-      folder="/Users/mohitg/StudioProjects/taskapp/build/shared_preferences_android/.transforms/a1df316cdd2d87854a861b11a087f362/transformed/out"
+      folder="/Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/build/shared_preferences_android/.transforms/d5645e108ed5ade74315440c291150f5/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"

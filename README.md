@@ -41,7 +41,9 @@ Dark Mode: Toggle between light and dark themes for improved accessibility and u
 
 # APK File
 
-The APK file for testing can be downloaded here. Install it on an Android device to test the app's functionality.
+The APK file for testing can be downloaded from below location. Install it on an Android device to test the app's functionality.
+
+Location: build/app/outputs/flutter-apk/app-release.apk.
 
 # Evaluation Criteria
 

@@ -1,11 +1,11 @@
 <lint-module
     format="1"
-    dir="/Users/mohitg/StudioProjects/taskapp/android/app"
+    dir="/Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app"
     name=":app"
     type="APP"
     maven="android:app:"
     agpVersion="8.1.0"
-    buildFolder="/Users/mohitg/StudioProjects/taskapp/build/app"
+    buildFolder="/Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/build/app"
     bootClassPath="/Users/mohitg/Library/Android/sdk/platforms/android-35/android.jar:/Users/mohitg/Library/Android/sdk/build-tools/33.0.1/core-lambda-stubs.jar"
     javaSourceLevel="1.8"
     compileTarget="android-35">

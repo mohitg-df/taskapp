@@ -361,7 +361,7 @@
             "outputFile": "com.mohitdev.taskapp.taskapp-merged_res-42:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/mohitg/StudioProjects/taskapp/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -4657,7 +4657,7 @@
                     }
                 },
                 {
-                    "source": "/Users/mohitg/StudioProjects/taskapp/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/mohitg/Desktop/GitHub/ZohoClone/taskapp/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
